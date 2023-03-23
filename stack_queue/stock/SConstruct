@@ -1,0 +1,1 @@
+Program('program.exe', Glob('./*.cpp'))
